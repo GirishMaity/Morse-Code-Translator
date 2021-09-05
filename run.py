@@ -5,7 +5,7 @@ import encryption as cipher
 import decryption as decipher                           
 
 print("\t\t\t\t***********************")
-print("\t\t\t\t MORSE CODE TRANSLATOR ")
+print("\t\t\t\t MORSE CODE TRANSLATOR girish")
 print("\t\t\t\t***********************")
 print("\n")
 
